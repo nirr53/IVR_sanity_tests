@@ -1,0 +1,613 @@
+2017-03-27 11:54:45,749 [main] INFO  - Browser - Chrome
+2017-03-27 11:54:45,762 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 11:54:49,928 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 11:54:49,928 [main] INFO  - |                                                                                       |
+2017-03-27 11:54:49,928 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 11:54:49,928 [main] INFO  - |                                                                                       |
+2017-03-27 11:54:49,929 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 11:54:49,957 [main] INFO  -       1. title - 
+2017-03-27 11:59:08,589 [main] INFO  - Browser - Chrome
+2017-03-27 11:59:08,601 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 11:59:12,550 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 11:59:12,550 [main] INFO  - |                                                                                       |
+2017-03-27 11:59:12,551 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 11:59:12,551 [main] INFO  - |                                                                                       |
+2017-03-27 11:59:12,551 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 11:59:12,551 [main] INFO  -       system url - http://10.21.10.45/ipp/admin/logout.php:8090
+2017-03-27 11:59:39,297 [main] INFO  - Browser - Chrome
+2017-03-27 11:59:39,308 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 11:59:43,272 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 11:59:43,272 [main] INFO  - |                                                                                       |
+2017-03-27 11:59:43,272 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 11:59:43,272 [main] INFO  - |                                                                                       |
+2017-03-27 11:59:43,272 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 11:59:43,272 [main] INFO  -       system url - https://10.21.10.45/ipp/admin/logout.php:8090
+2017-03-27 12:00:20,660 [main] INFO  - Browser - Chrome
+2017-03-27 12:00:20,668 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 12:00:24,650 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 12:00:24,651 [main] INFO  - |                                                                                       |
+2017-03-27 12:00:24,651 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 12:00:24,651 [main] INFO  - |                                                                                       |
+2017-03-27 12:00:24,651 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 12:00:24,651 [main] INFO  -       system url - https://10.21.10.45/ipp/admin/logout.php:8090
+2017-03-27 12:04:25,416 [main] INFO  - Browser - Chrome
+2017-03-27 12:04:25,425 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 12:04:29,428 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 12:04:29,428 [main] INFO  - |                                                                                       |
+2017-03-27 12:04:29,429 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 12:04:29,429 [main] INFO  - |                                                                                       |
+2017-03-27 12:04:29,430 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 12:04:29,430 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 12:06:43,392 [main] INFO  - Browser - Chrome
+2017-03-27 12:06:43,403 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 12:06:47,438 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 12:06:47,438 [main] INFO  - |                                                                                       |
+2017-03-27 12:06:47,438 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 12:06:47,439 [main] INFO  - |                                                                                       |
+2017-03-27 12:06:47,439 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 12:06:47,439 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 12:09:29,945 [main] INFO  - Browser - Chrome
+2017-03-27 12:09:29,959 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 12:09:34,014 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 12:09:34,014 [main] INFO  - |                                                                                       |
+2017-03-27 12:09:34,014 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 12:09:34,014 [main] INFO  - |                                                                                       |
+2017-03-27 12:09:34,014 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 12:09:34,014 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 12:09:37,447 [main] INFO  -       username - nir1
+2017-03-27 12:09:37,447 [main] INFO  -       password - 1q2w3e4r5t
+2017-03-27 12:13:51,483 [main] INFO  - Browser - Chrome
+2017-03-27 12:13:51,494 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 12:13:55,441 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 12:13:55,442 [main] INFO  - |                                                                                       |
+2017-03-27 12:13:55,442 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 12:13:55,442 [main] INFO  - |                                                                                       |
+2017-03-27 12:13:55,442 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 12:13:55,442 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 12:13:59,439 [main] INFO  -       username - Admin
+2017-03-27 12:13:59,440 [main] INFO  -       password - Admin
+2017-03-27 12:16:08,813 [main] INFO  - Browser - Chrome
+2017-03-27 12:16:08,822 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 12:16:12,774 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 12:16:12,774 [main] INFO  - |                                                                                       |
+2017-03-27 12:16:12,774 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 12:16:12,775 [main] INFO  - |                                                                                       |
+2017-03-27 12:16:12,775 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 12:16:12,775 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 12:16:16,312 [main] INFO  -       username - Admin
+2017-03-27 12:16:16,312 [main] INFO  -       password - Admin
+2017-03-27 12:21:47,374 [main] INFO  - Browser - Chrome
+2017-03-27 12:21:47,386 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 12:21:51,342 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 12:21:51,342 [main] INFO  - |                                                                                       |
+2017-03-27 12:21:51,342 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 12:21:51,342 [main] INFO  - |                                                                                       |
+2017-03-27 12:21:51,342 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 12:21:51,342 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 12:21:54,720 [main] INFO  -       username - Admin
+2017-03-27 12:21:54,721 [main] INFO  -       password - Admin
+2017-03-27 12:23:38,295 [main] INFO  - Browser - Chrome
+2017-03-27 12:23:38,304 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 12:23:42,254 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 12:23:42,254 [main] INFO  - |                                                                                       |
+2017-03-27 12:23:42,254 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 12:23:42,254 [main] INFO  - |                                                                                       |
+2017-03-27 12:23:42,254 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 12:23:42,254 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 12:23:45,744 [main] INFO  -       username - Admin
+2017-03-27 12:23:45,744 [main] INFO  -       password - Admin
+2017-03-27 13:17:00,799 [main] INFO  - Browser - Chrome
+2017-03-27 13:17:00,809 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 13:17:04,942 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 13:17:04,942 [main] INFO  - |                                                                                       |
+2017-03-27 13:17:04,942 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 13:17:04,943 [main] INFO  - |                                                                                       |
+2017-03-27 13:17:04,943 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 13:17:04,943 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 13:17:08,919 [main] INFO  -       username - Admin
+2017-03-27 13:17:08,919 [main] INFO  -       password - Admin
+2017-03-27 13:17:16,016 [main] INFO  -    enterMenu  - Backup_and_restore
+2017-03-27 13:17:16,016 [main] ERROR - Menu name is not recognized !!
+2017-03-27 13:21:58,580 [main] INFO  - Browser - Chrome
+2017-03-27 13:21:58,593 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 13:22:02,650 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 13:22:02,650 [main] INFO  - |                                                                                       |
+2017-03-27 13:22:02,650 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 13:22:02,650 [main] INFO  - |                                                                                       |
+2017-03-27 13:22:02,650 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 13:22:02,650 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 13:22:06,313 [main] INFO  -       username - Admin
+2017-03-27 13:22:06,313 [main] INFO  -       password - Admin
+2017-03-27 13:22:13,817 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 13:22:13,817 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 13:22:17,370 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 13:22:54,494 [main] INFO  - Browser - Chrome
+2017-03-27 13:22:54,511 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 13:22:58,601 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 13:22:58,601 [main] INFO  - |                                                                                       |
+2017-03-27 13:22:58,601 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 13:22:58,601 [main] INFO  - |                                                                                       |
+2017-03-27 13:22:58,601 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 13:22:58,601 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 13:23:02,079 [main] INFO  -       username - Admin
+2017-03-27 13:23:02,080 [main] INFO  -       password - Admin
+2017-03-27 13:23:09,076 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 13:23:09,077 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 13:23:12,632 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 13:23:16,963 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 13:27:39,172 [main] INFO  - Browser - Chrome
+2017-03-27 13:27:39,182 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 13:27:43,258 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 13:27:43,258 [main] INFO  - |                                                                                       |
+2017-03-27 13:27:43,258 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 13:27:43,258 [main] INFO  - |                                                                                       |
+2017-03-27 13:27:43,258 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 13:27:43,259 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 13:27:47,250 [main] INFO  -       username - Admin
+2017-03-27 13:27:47,250 [main] INFO  -       password - Admin
+2017-03-27 13:27:52,926 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 13:27:52,927 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 13:27:56,485 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 13:28:01,136 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 13:28:01,136 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 13:28:46,762 [main] INFO  - Browser - Chrome
+2017-03-27 13:28:46,772 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 13:28:50,766 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 13:28:50,767 [main] INFO  - |                                                                                       |
+2017-03-27 13:28:50,767 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 13:28:50,767 [main] INFO  - |                                                                                       |
+2017-03-27 13:28:50,767 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 13:28:50,767 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 13:28:54,145 [main] INFO  -       username - Admin
+2017-03-27 13:28:54,146 [main] INFO  -       password - Admin
+2017-03-27 13:29:01,156 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 13:29:01,156 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 13:29:04,711 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 13:29:08,897 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 13:29:08,898 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 13:30:12,821 [main] INFO  - Browser - Chrome
+2017-03-27 13:30:12,829 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 13:30:16,760 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 13:30:16,760 [main] INFO  - |                                                                                       |
+2017-03-27 13:30:16,760 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 13:30:16,760 [main] INFO  - |                                                                                       |
+2017-03-27 13:30:16,760 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 13:30:16,760 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 13:30:20,119 [main] INFO  -       username - Admin
+2017-03-27 13:30:20,119 [main] INFO  -       password - Admin
+2017-03-27 13:30:27,125 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 13:30:27,125 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 13:30:30,675 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 13:30:36,112 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 13:30:36,112 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 13:31:45,540 [main] INFO  - Browser - Chrome
+2017-03-27 13:31:45,547 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 13:31:49,478 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 13:31:49,478 [main] INFO  - |                                                                                       |
+2017-03-27 13:31:49,478 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 13:31:49,478 [main] INFO  - |                                                                                       |
+2017-03-27 13:31:49,478 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 13:31:49,478 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 13:31:52,859 [main] INFO  -       username - Admin
+2017-03-27 13:31:52,859 [main] INFO  -       password - Admin
+2017-03-27 13:31:59,885 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 13:31:59,885 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 13:32:03,434 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 13:32:07,666 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 13:32:07,666 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 13:34:23,156 [main] INFO  - Browser - Chrome
+2017-03-27 13:34:23,164 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 13:34:27,025 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 13:34:27,025 [main] INFO  - |                                                                                       |
+2017-03-27 13:34:27,026 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 13:34:27,026 [main] INFO  - |                                                                                       |
+2017-03-27 13:34:27,026 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 13:34:27,026 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 13:34:30,398 [main] INFO  -       username - Admin
+2017-03-27 13:34:30,398 [main] INFO  -       password - Admin
+2017-03-27 13:34:37,556 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 13:34:37,557 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 13:34:41,112 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 13:34:45,329 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 13:34:48,330 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 13:37:36,698 [main] INFO  - Browser - Chrome
+2017-03-27 13:37:36,706 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 13:37:40,694 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 13:37:40,695 [main] INFO  - |                                                                                       |
+2017-03-27 13:37:40,695 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 13:37:40,695 [main] INFO  - |                                                                                       |
+2017-03-27 13:37:40,695 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 13:37:40,695 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 13:37:42,063 [main] INFO  -       username - Admin
+2017-03-27 13:37:42,063 [main] INFO  -       password - Admin
+2017-03-27 13:37:49,021 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 13:37:49,022 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 13:37:52,562 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 13:37:56,777 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 13:37:59,769 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 13:40:24,892 [main] INFO  - Browser - Chrome
+2017-03-27 13:40:24,902 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 13:40:28,877 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 13:40:28,877 [main] INFO  - |                                                                                       |
+2017-03-27 13:40:28,877 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 13:40:28,877 [main] INFO  - |                                                                                       |
+2017-03-27 13:40:28,877 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 13:40:28,877 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 13:40:30,346 [main] INFO  -       username - Admin
+2017-03-27 13:40:30,346 [main] INFO  -       password - Admin
+2017-03-27 13:40:37,357 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 13:40:37,357 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 13:40:40,901 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 13:40:45,058 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 13:40:48,050 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 13:51:00,719 [main] INFO  - Browser - Chrome
+2017-03-27 13:51:00,728 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 13:51:04,833 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 13:51:04,833 [main] INFO  - |                                                                                       |
+2017-03-27 13:51:04,834 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 13:51:04,834 [main] INFO  - |                                                                                       |
+2017-03-27 13:51:04,834 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 13:51:04,834 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 13:51:06,803 [main] INFO  -       username - Admin
+2017-03-27 13:51:06,803 [main] INFO  -       password - Admin
+2017-03-27 13:51:13,913 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 13:51:13,913 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 13:51:17,468 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 13:51:21,634 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 13:51:24,633 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 13:52:30,445 [main] INFO  - Browser - Chrome
+2017-03-27 13:52:30,455 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 13:52:34,409 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 13:52:34,409 [main] INFO  - |                                                                                       |
+2017-03-27 13:52:34,410 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 13:52:34,410 [main] INFO  - |                                                                                       |
+2017-03-27 13:52:34,410 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 13:52:34,410 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 13:52:35,806 [main] INFO  -       username - Admin
+2017-03-27 13:52:35,806 [main] INFO  -       password - Admin
+2017-03-27 13:52:42,815 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 13:52:42,815 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 13:52:46,369 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 13:52:50,575 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 13:52:53,574 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 13:54:20,191 [main] INFO  - Browser - Chrome
+2017-03-27 13:54:20,199 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 13:54:24,116 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 13:54:24,116 [main] INFO  - |                                                                                       |
+2017-03-27 13:54:24,116 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 13:54:24,116 [main] INFO  - |                                                                                       |
+2017-03-27 13:54:24,116 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 13:54:24,116 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 13:54:25,535 [main] INFO  -       username - Admin
+2017-03-27 13:54:25,535 [main] INFO  -       password - Admin
+2017-03-27 13:54:32,510 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 13:54:32,510 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 13:54:36,057 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 13:54:40,292 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 13:54:43,291 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 14:02:35,232 [main] INFO  - Browser - Chrome
+2017-03-27 14:02:35,243 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 14:02:39,345 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 14:02:39,345 [main] INFO  - |                                                                                       |
+2017-03-27 14:02:39,345 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 14:02:39,345 [main] INFO  - |                                                                                       |
+2017-03-27 14:02:39,345 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 14:02:39,345 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 14:02:41,395 [main] INFO  -       username - Admin
+2017-03-27 14:02:41,395 [main] INFO  -       password - Admin
+2017-03-27 14:02:48,401 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 14:02:48,401 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 14:02:51,961 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 14:02:56,174 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 14:02:59,174 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 14:05:31,797 [main] INFO  - Browser - Chrome
+2017-03-27 14:05:31,807 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 14:05:35,740 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 14:05:35,740 [main] INFO  - |                                                                                       |
+2017-03-27 14:05:35,741 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 14:05:35,741 [main] INFO  - |                                                                                       |
+2017-03-27 14:05:35,741 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 14:05:35,741 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 14:05:37,141 [main] INFO  -       username - Admin
+2017-03-27 14:05:37,141 [main] INFO  -       password - Admin
+2017-03-27 14:05:44,183 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 14:05:44,184 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 14:05:47,739 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 14:05:51,942 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 14:05:54,942 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 14:07:09,347 [main] INFO  - Browser - Chrome
+2017-03-27 14:07:09,357 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 14:07:13,417 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 14:07:13,417 [main] INFO  - |                                                                                       |
+2017-03-27 14:07:13,417 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 14:07:13,417 [main] INFO  - |                                                                                       |
+2017-03-27 14:07:13,418 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 14:07:13,418 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 14:07:14,944 [main] INFO  -       username - Admin
+2017-03-27 14:07:14,944 [main] INFO  -       password - Admin
+2017-03-27 14:07:21,996 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 14:07:21,997 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 14:07:25,556 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 14:07:29,751 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 14:07:32,751 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 14:08:17,941 [main] INFO  - Browser - Chrome
+2017-03-27 14:08:17,951 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 14:08:22,212 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 14:08:22,212 [main] INFO  - |                                                                                       |
+2017-03-27 14:08:22,212 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 14:08:22,212 [main] INFO  - |                                                                                       |
+2017-03-27 14:08:22,212 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 14:08:22,212 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 14:08:23,726 [main] INFO  -       username - Admin
+2017-03-27 14:08:23,726 [main] INFO  -       password - Admin
+2017-03-27 14:08:30,779 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 14:08:30,779 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 14:08:34,330 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 14:08:38,593 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 14:08:41,593 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 14:11:01,022 [main] INFO  - Browser - Chrome
+2017-03-27 14:11:01,031 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 14:11:05,064 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 14:11:05,064 [main] INFO  - |                                                                                       |
+2017-03-27 14:11:05,065 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 14:11:05,065 [main] INFO  - |                                                                                       |
+2017-03-27 14:11:05,065 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 14:11:05,065 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 14:11:06,435 [main] INFO  -       username - Admin
+2017-03-27 14:11:06,435 [main] INFO  -       password - Admin
+2017-03-27 14:11:13,497 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 14:11:13,497 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 14:11:17,056 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 14:11:21,234 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 14:11:24,234 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 14:13:57,038 [main] INFO  - Browser - Chrome
+2017-03-27 14:13:57,047 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 14:14:01,065 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 14:14:01,065 [main] INFO  - |                                                                                       |
+2017-03-27 14:14:01,065 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 14:14:01,065 [main] INFO  - |                                                                                       |
+2017-03-27 14:14:01,065 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 14:14:01,065 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 14:14:03,035 [main] INFO  -       username - Admin
+2017-03-27 14:14:03,035 [main] INFO  -       password - Admin
+2017-03-27 14:14:10,032 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 14:14:10,033 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 14:14:13,585 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 14:14:17,821 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 14:14:20,821 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 14:15:34,469 [main] INFO  - Browser - Chrome
+2017-03-27 14:15:34,478 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 14:15:38,548 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 14:15:38,548 [main] INFO  - |                                                                                       |
+2017-03-27 14:15:38,548 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 14:15:38,549 [main] INFO  - |                                                                                       |
+2017-03-27 14:15:38,549 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 14:15:38,549 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 14:15:39,985 [main] INFO  -       username - Admin
+2017-03-27 14:15:39,985 [main] INFO  -       password - Admin
+2017-03-27 14:15:46,974 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 14:15:46,974 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 14:15:50,532 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 14:15:54,768 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 14:15:57,768 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 14:16:51,410 [main] INFO  - Browser - Chrome
+2017-03-27 14:16:51,419 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 14:16:55,413 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 14:16:55,413 [main] INFO  - |                                                                                       |
+2017-03-27 14:16:55,413 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 14:16:55,413 [main] INFO  - |                                                                                       |
+2017-03-27 14:16:55,413 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 14:16:55,414 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 14:16:56,880 [main] INFO  -       username - Admin
+2017-03-27 14:16:56,880 [main] INFO  -       password - Admin
+2017-03-27 14:17:03,925 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 14:17:03,926 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 14:17:07,479 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 14:17:11,701 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 14:17:14,701 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 14:18:25,172 [main] INFO  - Browser - Chrome
+2017-03-27 14:18:25,183 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 14:18:29,059 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 14:18:29,059 [main] INFO  - |                                                                                       |
+2017-03-27 14:18:29,059 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 14:18:29,060 [main] INFO  - |                                                                                       |
+2017-03-27 14:18:29,060 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 14:18:29,060 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 14:18:30,576 [main] INFO  -       username - Admin
+2017-03-27 14:18:30,576 [main] INFO  -       password - Admin
+2017-03-27 14:18:37,545 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 14:18:37,545 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 14:18:41,116 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 14:18:45,403 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 14:18:48,403 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 14:21:22,627 [main] INFO  - Browser - Chrome
+2017-03-27 14:21:22,641 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 14:21:26,659 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 14:21:26,659 [main] INFO  - |                                                                                       |
+2017-03-27 14:21:26,659 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 14:21:26,659 [main] INFO  - |                                                                                       |
+2017-03-27 14:21:26,659 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 14:21:26,659 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 14:21:28,011 [main] INFO  -       username - Admin
+2017-03-27 14:21:28,011 [main] INFO  -       password - Admin
+2017-03-27 14:21:35,027 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 14:21:35,028 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 14:21:38,586 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 14:21:42,805 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 14:21:45,805 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 14:23:00,822 [main] INFO  - Browser - Chrome
+2017-03-27 14:23:00,833 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 14:23:04,805 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 14:23:04,805 [main] INFO  - |                                                                                       |
+2017-03-27 14:23:04,805 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 14:23:04,805 [main] INFO  - |                                                                                       |
+2017-03-27 14:23:04,805 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 14:23:04,805 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 14:23:06,242 [main] INFO  -       username - Admin
+2017-03-27 14:23:06,243 [main] INFO  -       password - Admin
+2017-03-27 14:23:13,258 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 14:23:13,259 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 14:23:16,808 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 14:23:20,987 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 14:23:23,988 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 14:27:58,966 [main] INFO  - Browser - Chrome
+2017-03-27 14:27:58,974 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 14:28:03,005 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 14:28:03,005 [main] INFO  - |                                                                                       |
+2017-03-27 14:28:03,005 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 14:28:03,005 [main] INFO  - |                                                                                       |
+2017-03-27 14:28:03,005 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 14:28:03,005 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 14:28:05,053 [main] INFO  -       username - Admin
+2017-03-27 14:28:05,053 [main] INFO  -       password - Admin
+2017-03-27 14:28:12,348 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 14:28:12,348 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 14:28:15,908 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 14:28:20,121 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 14:28:23,122 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 14:28:30,522 [main] INFO  -       backupName - 2017-03-27_14-28-30_IvrBackup_Manual.zip
+2017-03-27 14:28:30,640 [main] ERROR - 2017-03-27_14-28-30_IvrBackup_Manual.zip was not detected !! 
+bodyText - Backup
+Manual Backup
+Backup Now
+    Auto Backup
+Backup Hours:  
+Save
+  Num of Backup Saved:  
+Save
+  Enable Backup:  
+Save
+        Restore
+Upload backup file to the list:
+    Last Backup
+  2017-03-27_14-28-24_IvrBackup_Manual.zip
+Download
+Restore
+2016-12-01_02-52-00_IvrBackup_Auto.zip
+Download
+Restore
+2016-10-25_02-52-00_IvrBackup_Auto.zip
+Download
+Restore
+     
+2017-03-27 14:32:12,123 [main] INFO  - Browser - Chrome
+2017-03-27 14:32:12,133 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 14:33:38,294 [main] INFO  - Browser - Chrome
+2017-03-27 14:33:38,302 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 14:33:42,298 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 14:33:42,299 [main] INFO  - |                                                                                       |
+2017-03-27 14:33:42,299 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 14:33:42,299 [main] INFO  - |                                                                                       |
+2017-03-27 14:33:42,299 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 14:33:42,299 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 14:33:43,701 [main] INFO  -       username - Admin
+2017-03-27 14:33:43,701 [main] INFO  -       password - Admin
+2017-03-27 14:33:50,691 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 14:33:50,692 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 14:33:54,253 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 14:33:58,497 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 14:34:01,498 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 14:34:08,902 [main] INFO  -       backupName - 2017-03-27_14-34
+2017-03-27 14:34:09,057 [main] INFO  -       2017-03-27_14-34 was detected !!
+2017-03-27 14:49:36,242 [main] INFO  - Browser - Chrome
+2017-03-27 14:49:36,252 [main] INFO  - Enter setUp(); usedbrowser - Chrome
+2017-03-27 14:49:40,284 [main] INFO  - +---------------------------------------------------------------------------------------+
+2017-03-27 14:49:40,284 [main] INFO  - |                                                                                       |
+2017-03-27 14:49:40,284 [main] INFO  - |   IVR_sanity_Tests.Configuration_backup_restore_manual_backup____Test427    
+2017-03-27 14:49:40,284 [main] INFO  - |                                                                                       |
+2017-03-27 14:49:40,284 [main] INFO  - +---------------------------------------------------------------------------------------+
+
+
+2017-03-27 14:49:40,284 [main] INFO  -       system url - http://10.21.10.45:8090//logout.php
+2017-03-27 14:49:42,242 [main] INFO  -       username - Admin
+2017-03-27 14:49:42,242 [main] INFO  -       password - Admin
+2017-03-27 14:49:49,279 [main] INFO  -    enterMenu  - AA_Backup_and_restore
+2017-03-27 14:49:49,279 [main] INFO  -       paths[0] - //*[@id='c5']
+2017-03-27 14:49:52,834 [main] INFO  -       paths[1] - //*[@id='c5.1']
+2017-03-27 14:49:57,079 [main] INFO  -    enterMenu  - AA_Backup_and_restore ended successfully !!
+2017-03-27 14:50:00,079 [main] INFO  - Press the 'Backup Now' key.
+2017-03-27 14:50:07,465 [main] INFO  -       backupName - 2017-03-27_14-50
+2017-03-27 14:50:07,524 [main] INFO  -       2017-03-27_14-50 was detected !!
+2017-03-27 14:50:07,524 [main] INFO  - Press the 'Download' key - Select 'Open' or 'Save'
+2017-03-27 14:50:07,524 [main] INFO  -       dir    - C:\Users\nirk\Downloads
+2017-03-27 14:50:07,524 [main] INFO  -       prefix - 2017-03-27_14-50
+2017-03-27 14:50:12,594 [main] INFO  -       dir    - C:\Users\nirk\Downloads
+2017-03-27 14:50:12,594 [main] INFO  -       prefix - 2017-03-27_14-50
+2017-03-27 14:50:12,595 [main] INFO  -       Find a file ! (2017-03-27_14-50-01_IvrBackup_Manual.zip)
+2017-03-27 14:50:12,604 [main] INFO  -       dir    - C:\Users\nirk\Downloads
+2017-03-27 14:50:12,604 [main] INFO  -       prefix - 2017-03-27_14-50
+2017-03-27 14:50:12,604 [main] INFO  -       Delete file - 2017-03-27_14-50-01_IvrBackup_Manual.zip
